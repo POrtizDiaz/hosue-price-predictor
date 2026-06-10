@@ -1,7 +1,7 @@
 name: MLops CI
 
 on: 
-  workdlow_dispatch: {}
+  workflow_dispatch: {}
 
 jobs:
   workflow:
